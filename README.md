@@ -11,6 +11,30 @@ Pequeno projeto em Python que organiza arquivos de uma pasta em subpastas por ti
 - `shutil` ou `Path.rename` para mover arquivos
 - Dicionário para mapear extensões → categorias
 
+## Conceitos praticados neste projeto
+
+- Manipulação de arquivos e diretórios com `pathlib`
+- Automação de processos manuais do dia a dia
+- Estruturação de funções e separação de responsabilidades
+- Uso de dicionários para mapear extensões → categorias
+- Validação de entradas do usuário
+- Tratamento de erros e checagens de caminho
+- Organização de código e boas práticas
+- Fluxo lógico completo: entrada → processamento → saída
+
+## Por que desenvolvi este projeto?
+
+Criei este organizador de arquivos para treinar lógica de programação e manipulação de dados reais no sistema de arquivos.  
+O objetivo principal foi transformar um processo manual e repetitivo em uma automação simples, mas útil, reforçando:
+
+- raciocínio lógico,
+- modularização,
+- manipulação real do sistema operacional,
+- e leitura/escrita de arquivos.
+
+Esse projeto foi essencial para consolidar pontos importantes da minha formação como desenvolvedor Python back-end.
+
+
 ## Como o programa funciona
 
 1. O usuário informa o **caminho da pasta de origem**.
